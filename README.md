@@ -55,7 +55,9 @@ It helps farmers identify diseases early and take preventive measures to improve
 | Version Control | Git & GitHub            |
 
 ---
-
+## 📊Dataset
+- https://data.mendeley.com/datasets/fwcj7stb8r/1
+---
 ## 🚀 Run Locally
 
 ```bash
